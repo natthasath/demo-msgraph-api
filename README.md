@@ -1,6 +1,6 @@
-# 🎉 Template Python FastAPI
+# 🎉 DEMO MSGraph API
 
-FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. It has a simple and easy to use API, is lightweight, and includes features like asynchronous support, dependency injection, and more.
+Microsoft Graph is a RESTful web API that enables you to access Microsoft cloud service resources such as Office 365, Azure AD, and more. It allows developers to access data and services across Microsoft 365, including SharePoint, OneDrive, Outlook, and more.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)

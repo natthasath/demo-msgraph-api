@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+python-decouple
+python-multipart
+requests
+msal
+pydantic[email]

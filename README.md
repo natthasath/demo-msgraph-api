@@ -12,7 +12,7 @@ Directory.AccessAsUser.All
 Directory.ReadWrite.All
 ```
 
-### 🥈 Run
+### 🏆 Run
 
 - [http://localhost:8000/docs](http://localhost:8000/docs)
 - [http://localhost:8000/subapi/docs](http://localhost:8000/subapi/docs)
